@@ -1,10 +1,9 @@
 #ifndef _CUSTOMMATH_HPP_
 #define _CUSTOMMATH_HPP_
 
-#include <string>
-
 namespace custommath {
-    add(std::string first, std::string second);
+    add(int firstnum, int secondnum);
+    sub(int firstnum, int secondnum);
 }
 
 #endif // _CUSTOMMATH_HPP_
